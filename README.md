@@ -22,7 +22,7 @@ Manipulation de JavaScript/POSTMAN dans le but de faire appel à des données (G
 - Visual Studio Code
 - Git
 - HTML
-- CSS
+- CSS (CUSTOM / BOOTSTRAP)
 - JAVASCRIPT
 - API (LIBRE)
 - POSTMAN
